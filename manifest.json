@@ -8,7 +8,7 @@
    "default_popup": "index.html"  
   },  
 "icons": {
-"url"	: "https://static.thenounproject.com/png/87961-200.png"
+"src"	: "https://static.thenounproject.com/png/87961-200.png"
  },
   "permissions": [  
    "activeTab",  
