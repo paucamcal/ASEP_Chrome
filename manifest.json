@@ -5,7 +5,8 @@
   "version": "1.0",  
   "browser_action": {   
    "default_popup": "index.html"  
-  },  
+   "default_icon": "https://static.thenounproject.com/png/87961-200.png",
+  },
   "permissions": [  
    "activeTab",  
    "storage"  
