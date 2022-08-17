@@ -7,9 +7,6 @@
    "default_icon": "logo.png",  
    "default_popup": "index.html"  
   },  
-"icons": {
-"src"	: "https://static.thenounproject.com/png/87961-200.png"
- },
   "permissions": [  
    "activeTab",  
    "storage"  
