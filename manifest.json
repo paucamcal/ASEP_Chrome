@@ -7,7 +7,7 @@
    "default_icon": "logo.png",  
    "default_popup": "index.html"  
   },  
-icon{
+"icons": {
 "url"	: "https://static.thenounproject.com/png/87961-200.png"
 "name"	:	"logo.png"
  },
